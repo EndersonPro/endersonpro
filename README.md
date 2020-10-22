@@ -1,4 +1,4 @@
-# Hey, todo bien? 
+# Hey, todo bien? :hand:
 Hola, mi nombre es Enderson Vizcaino, tengo 22 años, soy apasionado por la programación y por compartir el conocimiento. Actualmente estudiante de Ingeniería de Sistemas, tengo más de 3 años desarrollando soluciones móviles y web. :smile:
 
 #### Algunas de las herramientas que uso. 
@@ -19,7 +19,8 @@ Hola, mi nombre es Enderson Vizcaino, tengo 22 años, soy apasionado por la prog
 
 <br/>
 
-  ### Contacta conmigo:
+  ### :iphone: Contacta conmigo:
+
 [<img align="left" alt="https://endersonpro.github.io/portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -27,7 +28,7 @@ Hola, mi nombre es Enderson Vizcaino, tengo 22 años, soy apasionado por la prog
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br/>
 
-#### Mis ultimos videos 
+#### :computer: Mis ultimos videos 
 <!-- YOUTUBE:START -->
 - [Flutter: Integrando GraphQL  - Querys](https://www.youtube.com/watch?v=_b0tJ7zfv0g)
 - [Como solucionar el error de la tienda de Windows [Windows Store][Definitivo] 2020](https://www.youtube.com/watch?v=YfBREnhulng)
@@ -36,7 +37,7 @@ Hola, mi nombre es Enderson Vizcaino, tengo 22 años, soy apasionado por la prog
 - [Recibiendo y enviando mensajes - Como hacer un Chat en tiempo real  -  Parte 3](https://www.youtube.com/watch?v=AsZ37chBLLY)
 <!-- YOUTUBE:END -->
 
-#### Estadisticas
+#### :chart_with_upwards_trend: Estadisticas
 > [![EndersonPro github stats](https://github-readme-stats.vercel.app/api?username=endersonpro&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 [website]: https://endersonpro.github.io/portfolio/
@@ -44,4 +45,4 @@ Hola, mi nombre es Enderson Vizcaino, tengo 22 años, soy apasionado por la prog
 [youtube]: https://youtube.com/ByEnderson
 [instagram]: https://instagram.com/endersonvizc
 [linkedin]: https://www.linkedin.com/in/enderson-vizcaino-2aa927175/
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=endersonpro.endersonpro)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=endersonpro.endersonpro) :eyes:
