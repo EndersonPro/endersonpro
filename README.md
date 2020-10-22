@@ -37,8 +37,7 @@ Hola, mi nombre es Enderson Vizcaino, tengo 22 años, soy apasionado por la prog
 <!-- YOUTUBE:END -->
 
 #### Estadisticas
-[![EndersonPro github stats](https://github-readme-stats.vercel.app/api?username=endersonpro)](https://github.com/anuraghazra/github-readme-stats)
-
+[![EndersonPro github stats](https://github-readme-stats.vercel.app/api?username=endersonpro&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endersonpro&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://endersonpro.github.io/portfolio/
 [twitter]: https://twitter.com/endersonj_
