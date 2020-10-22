@@ -29,6 +29,11 @@ Hola, mi nombre es Enderson Vizcaino, tengo 22 años, soy apasionado por la prog
 
 #### Mis ultimos videos 
 <!-- YOUTUBE:START -->
+- [Flutter: Integrando GraphQL  - Querys](https://www.youtube.com/watch?v=_b0tJ7zfv0g)
+- [Como solucionar el error de la tienda de Windows [Windows Store][Definitivo] 2020](https://www.youtube.com/watch?v=YfBREnhulng)
+- [ReactJS Iniciar un proyecto, configuración inicial Webpack.](https://www.youtube.com/watch?v=0jBpAADK33w)
+- [Desplegando chat en Heroku - Github | Como hacer un Chat en tiempo real Parte 4](https://www.youtube.com/watch?v=h2N_d1TEWC0)
+- [Recibiendo y enviando mensajes - Como hacer un Chat en tiempo real  -  Parte 3](https://www.youtube.com/watch?v=AsZ37chBLLY)
 <!-- YOUTUBE:END -->
 
 #### Estadisticas
