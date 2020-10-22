@@ -3,7 +3,7 @@ Hola, mi nombre es Enderson Vizcaino, tengo 22 años, soy apasionado por la prog
 
 #### Algunas de las herramientas que uso. 
 
-><img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+> <img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
  <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"/>
  <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"/>
  <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
@@ -37,7 +37,7 @@ Hola, mi nombre es Enderson Vizcaino, tengo 22 años, soy apasionado por la prog
 <!-- YOUTUBE:END -->
 
 #### Estadisticas
-[![EndersonPro github stats](https://github-readme-stats.vercel.app/api?username=endersonpro&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endersonpro&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+> [![EndersonPro github stats](https://github-readme-stats.vercel.app/api?username=endersonpro&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 [website]: https://endersonpro.github.io/portfolio/
 [twitter]: https://twitter.com/endersonj_
