@@ -44,11 +44,11 @@ Hola, mi nombre es Enderson Vizcaino, tengo 22 años, soy apasionado por la prog
 #### Waka
 <!--START_SECTION:waka-->
 ```text
-JavaScript   5 hrs 19 mins   ██████████████████████▒░░   89.11 % 
-JSON         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Java         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+JavaScript   5 hrs 49 mins   ██████████████████████▒░░   89.95 % 
+JSON         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
+Java         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+XML          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 ```
 <!--END_SECTION:waka-->
 
