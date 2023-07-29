@@ -1,5 +1,5 @@
 # Hey, todo bien? :hand:
-Hola, mi nombre es Enderson Vizcaino, tengo 23 años, soy apasionado por la programación y por compartir el conocimiento. Actualmente estudiante de Ingeniería de Sistemas, tengo más de 4 años desarrollando soluciones móviles y web. :smile:
+Hola, mi nombre es Enderson Vizcaino, tengo 25 años, soy apasionado por la programación y por compartir el conocimiento. Actualmente estudiante de Ingeniería de Sistemas, tengo más de 4 años desarrollando soluciones móviles y web. :smile:
 
 #### Algunas de las herramientas que uso. 
 
