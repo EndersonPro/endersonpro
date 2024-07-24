@@ -8,6 +8,13 @@ Mi nombre es Enderson Vizcaíno, me dicen Ender. Apasionado por las tecnologías
 
 
 <!--START_SECTION:waka-->
+
+```txt
+Dart         3 hrs 12 mins   ██████████████████████▓░░   90.29 %
+TypeScript   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+CSV          8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
+```
+
 <!--END_SECTION:waka-->
 
 [website]: https://endersonpro.github.io/portfolio/
