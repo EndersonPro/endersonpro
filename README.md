@@ -10,11 +10,11 @@ Mi nombre es Enderson Vizcaíno, me dicen Ender. Apasionado por las tecnologías
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   3 hrs 1 min     █████████████░░░░░░░░░░░░   51.68 %
-Dart         1 hr 1 min      ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
-JSON         37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-Bash         34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-YAML         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+TypeScript        3 hrs 13 mins   █████████▒░░░░░░░░░░░░░░░   37.44 %
+Dart              2 hrs 47 mins   ████████░░░░░░░░░░░░░░░░░   32.55 %
+Bash              50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+JSON              40 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+YAML              22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
 ```
 
 <!--END_SECTION:waka-->
