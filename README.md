@@ -10,11 +10,11 @@ Mi nombre es Enderson Vizcaíno, me dicen Ender. Apasionado por las tecnologías
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 hrs 20 mins  █████████████████████▒░░░   85.61 %
-Prisma       54 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Bash         37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Git Config   17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
-JSON         16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+TypeScript   10 hrs 56 mins  ████████████████████▓░░░░   82.13 %
+Prisma       54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
+Bash         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+Git Config   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
