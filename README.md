@@ -18,6 +18,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EndersonPro.EndersonPro&"  />
+</div>
+
+###
+
 <h1 align="center">Bueeenas, todo bien? 👋</h1>
 
 ###
@@ -85,5 +91,11 @@
 ###
 
 <h3 align="left">🔥  Un poco de mi actividad:</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=EndersonPro&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
