@@ -39,64 +39,39 @@ No creo en programar por programar. Creo en entender los fundamentos, diseñar b
 ## Apps publicadas
 
 <table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-
+<tr>
+<td width="50%" align="center" valign="top">
 <a href="https://apps.apple.com/app/id6808745918"><b>Reins</b></a><br/>
 El control remoto de tus agentes de IA: revisa Claude Code, Codex o OpenCode desde el móvil.<br/>
 <sub>Flutter, Go</sub>
-
 <br/>
-
-<a href="https://apps.apple.com/app/id6808745918">
-  <img height="50" src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Descargar en la App Store" />
-</a>
-<br/>
+<a href="https://apps.apple.com/app/id6808745918"><img height="50" src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Descargar en la App Store" /></a><br/>
 <sub>también en <a href="https://play.google.com/apps/testing/dev.endersonvizc.reins">test cerrado de Play</a></sub>
-
-    </td>
-    <td width="50%" align="center" valign="top">
-
+</td>
+<td width="50%" align="center" valign="top">
 <a href="https://apps.apple.com/app/id6826743525"><b>Clari</b></a><br/>
 Divide gastos con tus amigos, tu pareja o tu grupo de viaje, sin hojas de cálculo.<br/>
 <sub>Flutter, Firebase</sub>
-
 <br/>
-
-<a href="https://apps.apple.com/app/id6826743525">
-  <img height="50" src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Descargar en la App Store" />
-</a>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" valign="top">
-
+<a href="https://apps.apple.com/app/id6826743525"><img height="50" src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Descargar en la App Store" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
 <a href="https://apps.apple.com/app/id6802155816"><b>Infinity</b></a><br/>
 Silencia videos y extrae su audio en un toque.<br/>
 <sub>Flutter, Rust, Firebase</sub>
-
 <br/>
-
-<a href="https://apps.apple.com/app/id6802155816">
-  <img height="50" src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Descargar en la App Store" />
-</a>
-
-    </td>
-    <td width="50%" align="center" valign="top">
-
+<a href="https://apps.apple.com/app/id6802155816"><img height="50" src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg" alt="Descargar en la App Store" /></a>
+</td>
+<td width="50%" align="center" valign="top">
 <a href="https://play.google.com/store/apps/details?id=dev.endersonvizc.pearmusic"><b>Pear Music</b></a><br/>
 Comparte música con tus amigos y escúchala en un toque.<br/>
 <sub>Flutter, Rust, Shorebird</sub>
-
 <br/>
-
-<a href="https://play.google.com/store/apps/details?id=dev.endersonvizc.pearmusic">
-  <img height="55" src="https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png" alt="Consíguelo en Google Play" />
-</a>
-
-    </td>
-  </tr>
+<a href="https://play.google.com/store/apps/details?id=dev.endersonvizc.pearmusic"><img height="55" src="https://play.google.com/intl/en_us/badges/static/images/badges/es_badge_web_generic.png" alt="Consíguelo en Google Play" /></a>
+</td>
+</tr>
 </table>
 
 <p align="center"><sub>Trabajo con equipos y clientes: <a href="https://play.google.com/store/apps/details?id=com.melonn.drivers">Melonn Drivers</a> y <a href="https://play.google.com/store/apps/details?id=co.edu.uninorte.estarbien.dev">EstarBien Uninorte</a> en Google Play, <a href="https://melonn.com/">Melonn Ops</a> y <a href="https://solutoday.com/">Solutoday</a></sub></p>
