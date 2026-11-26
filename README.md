@@ -1,8 +1,7 @@
 <!-- endersonpro · README de perfil
      Diseño: monochrome calibrado con endersonvizc.dev (Geist, bone #f2f1ec / near-black #0f0f0d)
      La riqueza visual viene de artefactos reales: badges oficiales de stores, stats en vivo.
-     Anti-slop: sin emoji en el chrome, contraste medido, cero copy de marketing.
-     Automático: WakaTime (waka.yml, diario) -->
+     Anti-slop: sin emoji en el chrome, contraste medido, cero copy de marketing. -->
 
 <div align="center">
 
@@ -31,7 +30,7 @@ Soy **Enderson Vizcaíno**, ingeniero de software desde Colombia. Empecé como F
 No creo en programar por programar. Creo en entender los fundamentos, diseñar bien y usar agentes como un equipo real — con memoria persistente, revisiones con recibos y un humano que decide. Los agentes no solo escriben el código: recuerdan por qué lo escribieron.
 
 - **Apps propias en las stores:** [Reins](https://apps.apple.com/app/id6808745918), [Clari](https://apps.apple.com/app/id6826743525) e [Infinity](https://apps.apple.com/app/id6802155816) en la App Store; [Pear Music](https://play.google.com/store/apps/details?id=dev.endersonvizc.pearmusic) en Google Play
-- **Herramienta propia:** [flutree](https://github.com/EndersonPro/flutree), ciclo de vida de Git worktrees multi-repo para flujos Flutter, en Go
+- **Open source:** [perfscope](https://pub.dev/packages/perfscope) en pub.dev y [flutree](https://github.com/EndersonPro/flutree) en Homebrew y Scoop
 - **Base:** Colombia, sobre Fedora Linux (migré mi entorno desde macOS y mis propios agentes lo rearmaron conmigo)
 - **Certificado:** <img src="https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=232F3E" alt="AWS Certified Developer – Associate" />
 - **Pregúntame de:** Flutter, Rust, Go, desarrollo con agentes de IA
@@ -76,6 +75,23 @@ Comparte música con tus amigos y escúchala en un toque.<br/>
 
 <p align="center"><sub>Trabajo con equipos y clientes: <a href="https://play.google.com/store/apps/details?id=com.melonn.drivers">Melonn Drivers</a> y <a href="https://play.google.com/store/apps/details?id=co.edu.uninorte.estarbien.dev">EstarBien Uninorte</a> en Google Play, <a href="https://melonn.com/">Melonn Ops</a> y <a href="https://solutoday.com/">Solutoday</a></sub></p>
 
+## Open source
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/EndersonPro/perfscope"><b>perfscope</b></a><br/>
+Observabilidad de rendimiento para Flutter dentro del dispositivo: detecta frames anómalos, graba sesiones, compara contra baselines y genera reportes listos para IA. Sin nube ni DevTools.<br/>
+<a href="https://pub.dev/packages/perfscope"><img src="https://img.shields.io/pub/v/perfscope?style=flat-square&label=pub.dev&color=1c1c19" alt="pub.dev" /></a> <img src="https://img.shields.io/badge/Dart-1c1c19?style=flat-square&logo=dart&logoColor=f2f1ec" alt="Dart" />
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/EndersonPro/flutree"><b>flutree</b></a><br/>
+CLI que crea, amplía y cierra Git worktrees en proyectos Flutter multi-paquete, con <code>pub get</code> integrado y servidor MCP para que los agentes lo operen.<br/>
+<a href="https://github.com/EndersonPro/flutree"><img src="https://img.shields.io/github/stars/EndersonPro/flutree?style=flat-square&color=1c1c19" alt="stars" /></a> <img src="https://img.shields.io/badge/Go-1c1c19?style=flat-square&logo=go&logoColor=f2f1ec" alt="Go" /> <img src="https://img.shields.io/badge/brew%20%C2%B7%20scoop-1c1c19?style=flat-square&logo=homebrew&logoColor=f2f1ec" alt="Homebrew y Scoop" />
+</td>
+</tr>
+</table>
+
 ## Cómo trabajo
 
 <div align="center">
@@ -96,25 +112,9 @@ Cada sesión de código queda grabada en **Engram**, mi memoria persistente: el 
 
 ## Lenguajes y herramientas
 
-<div align="center">
-
-**Producto y móvil**
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,rust,go,android,ios&perline=6&theme=dark" alt="Producto y móvil" />
-
-**Web y backend**
-
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,react,vue,angular,tailwind,php&perline=7&theme=dark" alt="Web y backend" />
-
-**Datos y cloud**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,firebase,aws,docker&perline=6&theme=dark" alt="Datos y cloud" />
-
-**Flujo y QA**
-
-<img src="https://skillicons.dev/icons?i=git,githubactions,linux,python,playwright,vscode&perline=6&theme=dark" alt="Flujo y QA" />
-
-</div>
+<p align="center">
+  <img width="100%" src="assets/orbit.svg" alt="Tecnologías en órbita. Producto y móvil: Flutter, Dart, Rust, Go. Web y backend: TypeScript, Node.js, React, Vue, Angular, Tailwind, PHP. Datos, cloud y flujo: PostgreSQL, MySQL, Prisma, Firebase, AWS, Docker, Git, GitHub Actions, Linux, Python, VS Code." />
+</p>
 
 ## Actividad
 
@@ -128,13 +128,6 @@ Cada sesión de código queda grabada en **Engram**, mi memoria persistente: el 
 <img width="66%" src="https://streak-stats.demolab.com?user=EndersonPro&hide_border=true&border_radius=8&background=0f0f0d&ring=f2f1ec&fire=ff9f43&currStreakNum=f2f1ec&sideNums=a8a8a3&currStreakLabel=f2f1ec&sideLabels=a8a8a3&dates=a8a8a3&border=0f0f0d&locale=es" alt="streak" />
 
 </div>
-
-## Mi semana en código
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<p align="center"><sub>Actualizado cada día por WakaTime vía GitHub Actions.</sub></p>
 
 <div align="center">
 
