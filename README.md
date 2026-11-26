@@ -82,12 +82,12 @@ Comparte música con tus amigos y escúchala en un toque.<br/>
 <td width="50%" valign="top">
 <a href="https://github.com/EndersonPro/perfscope"><b>perfscope</b></a><br/>
 Observabilidad de rendimiento para Flutter dentro del dispositivo: detecta frames anómalos, graba sesiones, compara contra baselines y genera reportes listos para IA. Sin nube ni DevTools.<br/>
-<a href="https://pub.dev/packages/perfscope"><img src="https://img.shields.io/pub/v/perfscope?style=flat-square&label=pub.dev&color=1c1c19" alt="pub.dev" /></a> <img src="https://img.shields.io/badge/Dart-1c1c19?style=flat-square&logo=dart&logoColor=f2f1ec" alt="Dart" />
+<sub>Dart · <a href="https://pub.dev/packages/perfscope">pub.dev</a></sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/EndersonPro/flutree"><b>flutree</b></a><br/>
 CLI que crea, amplía y cierra Git worktrees en proyectos Flutter multi-paquete, con <code>pub get</code> integrado y servidor MCP para que los agentes lo operen.<br/>
-<a href="https://github.com/EndersonPro/flutree"><img src="https://img.shields.io/github/stars/EndersonPro/flutree?style=flat-square&color=1c1c19" alt="stars" /></a> <img src="https://img.shields.io/badge/Go-1c1c19?style=flat-square&logo=go&logoColor=f2f1ec" alt="Go" /> <img src="https://img.shields.io/badge/brew%20%C2%B7%20scoop-1c1c19?style=flat-square&logo=homebrew&logoColor=f2f1ec" alt="Homebrew y Scoop" />
+<sub>Go · Homebrew y Scoop · MCP</sub>
 </td>
 </tr>
 </table>
